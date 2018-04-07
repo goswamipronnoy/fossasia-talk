@@ -15,4 +15,4 @@ Since, the purpose of this project was to aid the marine archaeologists in their
 
 ##Algorithm
 
-![alt text](https://drive.google.com/open?id=1HtoFk45ZE-HuSXLme3mjV_vhNdbvG1kR)
+<img src="https://drive.google.com/open?id=1HtoFk45ZE-HuSXLme3mjV_vhNdbvG1kR" alt="Algortihm"/>
