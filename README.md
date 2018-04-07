@@ -13,6 +13,6 @@ Images tend to get degraded as the depth and turbidity increases. The amount of 
 
 Since, the purpose of this project was to aid the marine archaeologists in their studies, more emphasis has been given to feature extraction and the information that they provide rather than the enhancing the physical features of the underwater images.
 
-##Algorithm
+## Algorithm
 
-<img src="https://drive.google.com/open?id=1HtoFk45ZE-HuSXLme3mjV_vhNdbvG1kR" alt="Algortihm"/>
+! [Algorithm](https://drive.google.com/open?id=1HtoFk45ZE-HuSXLme3mjV_vhNdbvG1kR)
