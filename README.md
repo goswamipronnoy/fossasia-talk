@@ -15,4 +15,7 @@ Since, the purpose of this project was to aid the marine archaeologists in their
 
 ## Algorithm
 
-! [Algorithm](https://drive.google.com/open?id=1HtoFk45ZE-HuSXLme3mjV_vhNdbvG1kR)
+<div>
+  <div><p align="center"><img width="636" alt="algortihm" src="https://user-images.githubusercontent.com/6495428/38456762-cd8c719c-3aa5-11e8-8485-061b28b810cd.png"></p></div>
+  <div><p align="center"><i> Fig: Algorithm Implemented </p></i></div>
+</div>
